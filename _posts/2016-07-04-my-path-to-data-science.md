@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "My Page"
-date:   2016-07-04 10:03:39 +0800
+title:  "My Path to Data Science"
+date:   2016-07-04 11:03:39 +0800
 categories: diary
 ---
-## I lost my love! 2016-07
-
 ### Path to Data Science
 1. Programming
 python, R

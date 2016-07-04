@@ -10,7 +10,7 @@ title: Here is My page.
 layout: post
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
- I lost my love! 2016-07
+ This is my record for learning CS, DS, ML MOOC and MOOD.
  Write an awesome description for your new site here. You can edit this
  line in _config.yml. It will appear in your document head meta (for
  Google search results) and in your feed.xml site description.
