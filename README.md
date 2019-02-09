@@ -1,7 +1,7 @@
 # chaokang2012.github.io
 
-- content
--
+**content**
+
 - computer science
 - Network 
 - Machine learning

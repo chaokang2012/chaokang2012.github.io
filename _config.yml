@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Here is My page.
+title: The Path of learning.
 layout: post
 email: chao.kang2012@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- This is my record for learning CS, DS, ML MOOC and MOOD.
+ This is my record for learning CS, DS, ML and MOOC learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: CKang2012
